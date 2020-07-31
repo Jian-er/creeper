@@ -41,6 +41,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -49,7 +50,7 @@
       <recent name="D:\爬虫项目" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.re猫眼">
+  <component name="RunManager" selected="Python.33.tesseract的使用">
     <configuration name="32.猫眼电影re方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bs4猫眼" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="33.tesseract的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +81,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/猫眼练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/猫眼练习/bs4猫眼.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33.tesseract的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,35 +161,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xpath猫眼" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="爬虫项目" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/猫眼练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/猫眼练习/xpath猫眼.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.33.tesseract的使用" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.re猫眼" />
         <item itemvalue="Python.32.猫眼电影re方法" />
         <item itemvalue="Python.pyquery猫眼" />
-        <item itemvalue="Python.bs4猫眼" />
-        <item itemvalue="Python.xpath猫眼" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +199,11 @@
       <workItem from="1596033835016" duration="1544000" />
       <workItem from="1596035454126" duration="4045000" />
       <workItem from="1596098962895" duration="28000" />
+      <workItem from="1596107671839" duration="4132000" />
+      <workItem from="1596114450118" duration="214000" />
+      <workItem from="1596114684105" duration="736000" />
+      <workItem from="1596173756931" duration="165000" />
+      <workItem from="1596173984696" duration="42000" />
     </task>
     <servers />
   </component>
@@ -215,6 +221,28 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="212" key="GridCell.Tab.0.bottom" timestamp="1596174028784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596174028784" />
+    <state width="1323" height="212" key="GridCell.Tab.0.center" timestamp="1596174028784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596174028784" />
+    <state width="1323" height="212" key="GridCell.Tab.0.left" timestamp="1596174028783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596174028783" />
+    <state width="1323" height="212" key="GridCell.Tab.0.right" timestamp="1596174028784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596174028784" />
+    <state x="691" y="48" width="672" height="679" key="search.everywhere.popup" timestamp="1596115227685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="691" y="48" width="672" height="679" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596115227685" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -236,7 +264,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$xpath.coverage" NAME="xpath猫眼 Coverage Results" MODIFIED="1596035112814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/猫眼练习" />
-    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="demo Coverage Results" MODIFIED="1595941320937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$33_tesseract.coverage" NAME="33.tesseract的使用 Coverage Results" MODIFIED="1596174015576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="demo Coverage Results" MODIFIED="1596113117994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$21_requests5.coverage" NAME="21.requests的使用5 Coverage Results" MODIFIED="1595236697795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$24_bs4.coverage" NAME="24.bs4的使用 Coverage Results" MODIFIED="1595506715616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="第一个爬虫 Coverage Results" MODIFIED="1594645344557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -10,8 +10,16 @@
 # s = 'sxtsxtsxtsxtsxt'
 # print(s[::3])
 
+#
+# print([i * 10 for i in range(3, 9)])
+#
+# a = [100, 200, 300]
+# print(id(a[0]))
 
-print([i * 10 for i in range(3, 9)])
+a = {
+    '支出金额': 300.15,
+    '指出日期': "2018.10.18",
+    '支出人': '高小七'
+}
 
-a = [100, 200, 300]
-print(id(a[0]))
+print(a)
